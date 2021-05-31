@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679604517617",
+    "project_id": "ssipmt-education",
+    "storage_bucket": "ssipmt-education.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679604517617:android:7e8ffce75787a502440750",
+        "android_client_info": {
+          "package_name": "com.example.ssipmteducation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679604517617-6via07ujo52kk8922pqtmv96t9tudd9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYMhOe92aEyHiOp2qn5gXHI7ya-a20uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679604517617-6via07ujo52kk8922pqtmv96t9tudd9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
